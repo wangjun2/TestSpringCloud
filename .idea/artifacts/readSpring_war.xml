@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="readSpring:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="readSpring.war">
+      <element id="artifact" artifact-name="readSpring:war exploded" />
+    </root>
+  </artifact>
+</component>
